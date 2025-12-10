@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "796833122032",
+    "project_id": "shut-up-app-3d55f",
+    "storage_bucket": "shut-up-app-3d55f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:796833122032:android:5beb3ad92ef7097b342435",
+        "android_client_info": {
+          "package_name": "com.Tomas.shut.up.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWYOt-bofEFWmg68e4SHJayZQPXtzALv0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
